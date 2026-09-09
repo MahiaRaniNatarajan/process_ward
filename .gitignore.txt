@@ -1,3 +1,0 @@
-process_ward
-make_patients
-*.o
