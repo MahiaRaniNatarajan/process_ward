@@ -1,6 +1,6 @@
 # Process Ward (C port)
 
-A C port of the Python "Process Ward" tool: a rule-based OS process
+Process Ward: a rule-based OS process
 health, diagnosis & recovery system. Reads `/proc` directly, diagnoses
 process conditions (zombies, orphans, stopped processes, resource
 hogs), recommends/executes safety-tiered signal treatments, and prints
