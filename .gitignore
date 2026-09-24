@@ -1,0 +1,10 @@
+
+# Compiled binaries
+process_ward
+make_patients
+
+# Object files
+*.o
+
+# Other build artifacts
+*.out
